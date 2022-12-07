@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7ab7d908.css",
+    "main.js": "/react-gh-pages/static/js/main.f284b881.js",
+    "static/js/787.871f89b7.chunk.js": "/react-gh-pages/static/js/787.871f89b7.chunk.js",
+    "static/media/so.png": "/react-gh-pages/static/media/so.8abe2805df81ac947148.png",
+    "static/media/readmeGen.png": "/react-gh-pages/static/media/readmeGen.21b428d290a76de4d9c2.png",
+    "static/media/quickweather.jpeg": "/react-gh-pages/static/media/quickweather.7278578eb6a425db963d.jpeg",
+    "static/media/insomnia.png": "/react-gh-pages/static/media/insomnia.14d8d95d2fb8da81d5eb.png",
+    "static/media/avatarthumb.jpg": "/react-gh-pages/static/media/avatarthumb.a78d36682fde64255a89.jpg",
+    "static/media/miro.png": "/react-gh-pages/static/media/miro.a3e782ed376f44d8bfc2.png",
+    "static/media/AndreaReneResume.pdf": "/react-gh-pages/static/media/AndreaReneResume.762fbbbd55d2f58aa07b.pdf",
+    "static/media/totr.png": "/react-gh-pages/static/media/totr.9a54d8ac7d623723dcb9.png",
+    "static/media/pom.png": "/react-gh-pages/static/media/pom.ab414d5d37a814bdb42d.png",
+    "static/media/quizly.png": "/react-gh-pages/static/media/quizly.64c11187092ff52bcc2c.png",
+    "static/media/SmallCal.jpg": "/react-gh-pages/static/media/SmallCal.46a489dae6fa72a11613.jpg",
+    "static/media/email.png": "/react-gh-pages/static/media/email.c05eecb5826d6cfd248c.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7ab7d908.css.map": "/react-gh-pages/static/css/main.7ab7d908.css.map",
+    "main.f284b881.js.map": "/react-gh-pages/static/js/main.f284b881.js.map",
+    "787.871f89b7.chunk.js.map": "/react-gh-pages/static/js/787.871f89b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab7d908.css",
+    "static/js/main.f284b881.js"
+  ]
+}
